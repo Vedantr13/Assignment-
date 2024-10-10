@@ -1,0 +1,6 @@
+feedparser
+SQLAlchemy
+nltk
+celery
+gunicorn
+amqp
